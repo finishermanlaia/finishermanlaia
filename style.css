@@ -113,8 +113,8 @@ button:active{
 
 
 
-.model{
-	height: 415px;
+.models{
+	height: 420px;
 	position: absolute;
 	bottom: 40px;
 	left: 70%;
@@ -412,7 +412,7 @@ footer p:nth-child(2){
     width: 50%;
   }
   section img {
-    width: 50%;
+    
   }
   .about-container{
   	
