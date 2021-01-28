@@ -114,7 +114,7 @@ button:active{
 
 
 .models{
-	height: 420px;
+	height: 400px;
 	position: absolute;
 	bottom: 40px;
 	left: 70%;
@@ -428,7 +428,10 @@ footer p:nth-child(2){
   	flex-wrap: wrap;
   }
   .box-1{
-  	width: 50%;
+  	width: 25%;
+  }
+  .detail{
+  	width: 15%;
   }
   .services-text{
   	 width: 50%;
@@ -500,6 +503,12 @@ footer p:nth-child(2){
   .services-text{
   	 margin: 0 auto;
 
+  }
+  .box-1{
+  	width: 0 auto;
+  }
+  .detail{
+  	width: 0 auto;
   }
    .contact-me p{
   	margin: 0 auto;
